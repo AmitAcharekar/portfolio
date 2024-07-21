@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Udemy Course Recommendation System",
+    "imageSrc": "projects/course_recommendation.png",
+    "description": "This is course recommendation website that recommends Udemy courses using Flask, sklearn, etc libraries in Python and perform EDA on it.",
+    "skills": ["Python", "Flask"],
+    "demo": "",
+    "source": "https://github.com/AmitAcharekar/Course_recommendation_system"
+  },
+  {
+    "title": "Multiple Desiese Predictions Website",
+    "imageSrc": "projects/health_reception.png",
+    "description": "Designed web app which is capable of predicting whether someone has Diabetes,Heart issues, Liver conditions, Hepatitis, Jaundice, and more with help of ML models.",
+    "skills": ["Python", "Streamlit"],
+    "demo": " ",
+    "source": "https://github.com/AmitAcharekar/Health_Reception_Website"
+  }
+  
+]
