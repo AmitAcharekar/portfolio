@@ -50,6 +50,7 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
+
 .downlodetBtn {
   text-decoration: none;
   background-color: var(--color-primary);
@@ -89,7 +90,6 @@
   width: 50vw;
   height: 50vw;
   min-width: 350px;
-  min-width: 350px;
   top: -128px;
   left: -10vw;
   border-radius: 764px;
@@ -103,7 +103,6 @@
   width: 70vw;
   height: 50vw;
   min-width: 350px;
-  min-width: 250px;
   top: 246px;
   right: -25vw;
   border-radius: 764px;
@@ -119,5 +118,20 @@
 
   .content {
     align-items: center;
+  }
+
+  .btnContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+  }
+
+  .contactBtn, .downlodetBtn {
+    width: 80%;
+    margin: 10px 0;
+    font-size: 24px;
+    padding: 15px 20px;
   }
 }

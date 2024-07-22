@@ -11,15 +11,17 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm an Engineer who is passianate about AI/ML,Data Science And Python Devlopment.
         </p>
-        <u>
-        <a href="mailto:amit.acharekar2003@gmail.com" className={styles.contactBtn}>
+        <div class="btnContainer"><u>
+
+           <a href="mailto:amit.acharekar2003@gmail.com" className={styles.contactBtn}>
           Contact Me
-        </a>
-        <a href="https://drive.google.com/file/d/1mY3LneQv7kWg5cGX_rBlfMpeatqV_xEj/view?usp=sharing" className={styles.downlodetBtn} target="_blank">
-          Resume
-        </a>
+              </a>
+            <a href="https://drive.google.com/file/d/1mY3LneQv7kWg5cGX_rBlfMpeatqV_xEj/view?usp=sharing" className={styles.downlodetBtn} target="_blank">
+             Resume
+           </a>
+
+</u></div>
         
-        </u>
         
       </div>
       <img
