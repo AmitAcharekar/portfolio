@@ -8,7 +8,7 @@
     "source": "https://github.com/AmitAcharekar/Course_recommendation_system"
   },
   {
-    "title": "Multiple Desiese Predictions Website",
+    "title": "Multiple disease Predictions Website",
     "imageSrc": "projects/health_reception.png",
     "description": "Designed web app which is capable of predicting whether someone has Diabetes,Heart issues, Liver conditions, Hepatitis, Jaundice, and more with help of ML models.",
     "skills": ["Python", "Streamlit"],
